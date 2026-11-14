@@ -1,0 +1,474 @@
+[
+  {
+    "id": "genshin",
+    "name": "Genshin Impact",
+    "cat": "direct",
+    "unit": "Genesis Crystals",
+    "pk": [
+      [
+        60,
+        105
+      ],
+      [
+        300,
+        475
+      ],
+      [
+        980,
+        915
+      ],
+      [
+        1980,
+        2200
+      ],
+      [
+        3280,
+        4290
+      ],
+      [
+        6480,
+        8390
+      ]
+    ]
+  },
+  {
+    "id": "cod",
+    "name": "Call of Duty Mobile",
+    "cat": "direct",
+    "unit": "CP",
+    "pk": [
+      [
+        60,
+        120
+      ],
+      [
+        300,
+        570
+      ],
+      [
+        980,
+        1750
+      ],
+      [
+        1980,
+        3450
+      ],
+      [
+        3280,
+        5700
+      ],
+      [
+        6480,
+        10900
+      ]
+    ]
+  },
+  {
+    "id": "hok",
+    "name": "Honor of Kings",
+    "cat": "direct",
+    "unit": "Tokens",
+    "pk": [
+      [
+        80,
+        120
+      ],
+      [
+        240,
+        340
+      ],
+      [
+        400,
+        550
+      ],
+      [
+        800,
+        1050
+      ],
+      [
+        1200,
+        1550
+      ],
+      [
+        2400,
+        2990
+      ]
+    ]
+  },
+  {
+    "id": "valorant",
+    "name": "VALORANT Points",
+    "cat": "gift",
+    "unit": "VP",
+    "pk": [
+      [
+        475,
+        550
+      ],
+      [
+        1000,
+        1090
+      ],
+      [
+        2050,
+        2150
+      ],
+      [
+        3650,
+        3750
+      ]
+    ]
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox Gift Card",
+    "cat": "gift",
+    "unit": "Robux",
+    "pk": [
+      [
+        80,
+        140
+      ],
+      [
+        400,
+        630
+      ],
+      [
+        800,
+        1190
+      ],
+      [
+        1700,
+        2490
+      ]
+    ]
+  },
+  {
+    "id": "coc",
+    "name": "Clash of Clans",
+    "cat": "login",
+    "unit": "Gems",
+    "pk": [
+      [
+        80,
+        120
+      ],
+      [
+        500,
+        590
+      ],
+      [
+        1200,
+        1190
+      ],
+      [
+        2500,
+        2350
+      ]
+    ]
+  },
+  {
+    "id": "efootball",
+    "name": "eFootball Mobile",
+    "cat": "login",
+    "unit": "Coins",
+    "pk": [
+      [
+        100,
+        145
+      ],
+      [
+        300,
+        415
+      ],
+      [
+        550,
+        720
+      ],
+      [
+        1040,
+        1290
+      ]
+    ]
+  },
+  {
+    "id": "hsr",
+    "name": "Honkai Star Rail",
+    "cat": "direct",
+    "unit": "Oneiric Shards",
+    "pk": [
+      [
+        60,
+        130
+      ],
+      [
+        300,
+        570
+      ],
+      [
+        980,
+        1650
+      ],
+      [
+        1980,
+        3100
+      ]
+    ]
+  },
+  {
+    "id": "wuthering",
+    "name": "Wuthering Waves",
+    "cat": "direct",
+    "unit": "Lunites",
+    "pk": [
+      [
+        60,
+        135
+      ],
+      [
+        300,
+        580
+      ],
+      [
+        980,
+        1750
+      ],
+      [
+        1980,
+        3200
+      ]
+    ]
+  },
+  {
+    "id": "zenless",
+    "name": "Zenless Zone Zero",
+    "cat": "direct",
+    "unit": "Monochrome",
+    "pk": [
+      [
+        60,
+        135
+      ],
+      [
+        300,
+        580
+      ],
+      [
+        980,
+        1750
+      ],
+      [
+        1980,
+        3200
+      ]
+    ]
+  },
+  {
+    "id": "steam",
+    "name": "Steam Gift Card",
+    "cat": "gift",
+    "unit": "USD value",
+    "pk": [
+      [
+        5,
+        650
+      ],
+      [
+        10,
+        1250
+      ],
+      [
+        20,
+        2450
+      ],
+      [
+        50,
+        6150
+      ]
+    ]
+  },
+  {
+    "id": "apple",
+    "name": "Apple Gift Card",
+    "cat": "gift",
+    "unit": "USD value",
+    "pk": [
+      [
+        5,
+        650
+      ],
+      [
+        10,
+        1250
+      ],
+      [
+        20,
+        2450
+      ],
+      [
+        50,
+        6150
+      ]
+    ]
+  },
+  {
+    "id": "psn",
+    "name": "PlayStation Gift Card",
+    "cat": "gift",
+    "unit": "USD value",
+    "pk": [
+      [
+        5,
+        650
+      ],
+      [
+        10,
+        1250
+      ],
+      [
+        20,
+        2450
+      ],
+      [
+        50,
+        6150
+      ]
+    ]
+  },
+  {
+    "id": "capcut",
+    "name": "CapCut Pro",
+    "cat": "subscription",
+    "unit": "Months",
+    "pk": [
+      [
+        1,
+        380
+      ],
+      [
+        3,
+        1090
+      ],
+      [
+        12,
+        3990
+      ]
+    ]
+  },
+  {
+    "id": "crunchyroll",
+    "name": "Crunchyroll",
+    "cat": "subscription",
+    "unit": "Months",
+    "pk": [
+      [
+        1,
+        150
+      ],
+      [
+        3,
+        420
+      ],
+      [
+        12,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": "mlbb",
+    "name": "Mobile Legends",
+    "cat": "direct",
+    "unit": "Diamonds",
+    "pk": [
+      [
+        86,
+        115
+      ],
+      [
+        172,
+        225
+      ],
+      [
+        257,
+        335
+      ],
+      [
+        344,
+        445
+      ],
+      [
+        514,
+        655
+      ],
+      [
+        706,
+        899
+      ]
+    ]
+  },
+  {
+    "id": "ff",
+    "name": "Free Fire",
+    "cat": "direct",
+    "unit": "Diamonds",
+    "pk": [
+      [
+        100,
+        85
+      ],
+      [
+        210,
+        165
+      ],
+      [
+        310,
+        240
+      ],
+      [
+        520,
+        390
+      ],
+      [
+        1060,
+        780
+      ],
+      [
+        2180,
+        1550
+      ]
+    ]
+  },
+  {
+    "id": "pubg",
+    "name": "PUBG Mobile",
+    "cat": "direct",
+    "unit": "UC",
+    "pk": [
+      [
+        60,
+        115
+      ],
+      [
+        325,
+        575
+      ],
+      [
+        660,
+        1120
+      ],
+      [
+        1800,
+        2890
+      ],
+      [
+        3850,
+        5750
+      ],
+      [
+        8100,
+        11200
+      ]
+    ]
+  }
+]
